@@ -7,3 +7,5 @@
 // b5od l code w bktob git checkout past lal code bytl3li shu 3mlna bhyda l nhar
 
 //hyd part l jdid
+//git checkout master hiyi 25r nss5a
+
