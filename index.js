@@ -12,3 +12,6 @@
 //git add . y3ni r2b kl l folder
 //fini 3a visual studio code shuf w 23ml commit w hek 3a source control w erj3 shuf log 
 //bytla3ouli yehon 3adi
+
+//b3d ma 3mlt clone 8yrt zdt hol li fo2 w 3mlt commit b3den 3mlt push mn vscode w l2yto meshi l7al
+//lama 3mlt refresh 3a github ktirr l3ib ana
