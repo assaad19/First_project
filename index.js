@@ -9,3 +9,6 @@
 //hyd part l jdid
 //git checkout master hiyi 25r nss5a
 
+//git add . y3ni r2b kl l folder
+//fini 3a visual studio code shuf w 23ml commit w hek 3a source control w erj3 shuf log 
+//bytla3ouli yehon 3adi
