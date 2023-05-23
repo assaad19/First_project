@@ -15,3 +15,7 @@
 
 //b3d ma 3mlt clone 8yrt zdt hol li fo2 w 3mlt commit b3den 3mlt push mn vscode w l2yto meshi l7al
 //lama 3mlt refresh 3a github ktirr l3ib ana
+
+//okay hl2 lshi li natro bfut 3al repositroy/settings/pages/display from a branch/w ban2i l branch t7t
+//bntor shway w bytl3li link hyda bikoun link l website
+
